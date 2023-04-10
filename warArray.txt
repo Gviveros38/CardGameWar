@@ -1,0 +1,332 @@
+Welcome to War.
+#cards in hand1: 26#cards in hand2: 26
+#(cards in hand1)=25 #(cards in hand2)=25 #(cards in stack1)=1 #(cards in stack2)=1
+Kc Qc
+Player 1 gets the cards
+In round 1 #cards in hand1: 27#cards in hand2: 25
+#(cards in hand1)=26 #(cards in hand2)=24 #(cards in stack1)=1 #(cards in stack2)=1
+Jc Tc
+Player 1 gets the cards
+In round 2 #cards in hand1: 28#cards in hand2: 24
+#(cards in hand1)=27 #(cards in hand2)=23 #(cards in stack1)=1 #(cards in stack2)=1
+Qc 8c
+Player 1 gets the cards
+In round 3 #cards in hand1: 29#cards in hand2: 23
+#(cards in hand1)=28 #(cards in hand2)=22 #(cards in stack1)=1 #(cards in stack2)=1
+Jc 6c
+Player 1 gets the cards
+In round 4 #cards in hand1: 30#cards in hand2: 22
+#(cards in hand1)=29 #(cards in hand2)=21 #(cards in stack1)=1 #(cards in stack2)=1
+Tc 4c
+Player 1 gets the cards
+In round 5 #cards in hand1: 31#cards in hand2: 21
+#(cards in hand1)=30 #(cards in hand2)=20 #(cards in stack1)=1 #(cards in stack2)=1
+Qc 2c
+Player 1 gets the cards
+In round 6 #cards in hand1: 32#cards in hand2: 20
+#(cards in hand1)=31 #(cards in hand2)=19 #(cards in stack1)=1 #(cards in stack2)=1
+8c Kd
+Player 2 gets the cards
+In round 7 #cards in hand1: 31#cards in hand2: 21
+#(cards in hand1)=30 #(cards in hand2)=20 #(cards in stack1)=1 #(cards in stack2)=1
+Jc Jd
+#(cards in hand1)=30 #(cards in hand2)=20 #(cards in stack1)=1 #(cards in stack2)=1
+War!
+Qc 3d
+Player 1 gets the cards
+In round 8 #cards in hand1: 36#cards in hand2: 16
+#(cards in hand1)=35 #(cards in hand2)=15 #(cards in stack1)=1 #(cards in stack2)=1
+2c Ad
+Player 1 gets the cards
+In round 9 #cards in hand1: 37#cards in hand2: 15
+#(cards in hand1)=36 #(cards in hand2)=14 #(cards in stack1)=1 #(cards in stack2)=1
+Qc Qh
+#(cards in hand1)=36 #(cards in hand2)=14 #(cards in stack1)=1 #(cards in stack2)=1
+War!
+Jc 4h
+Player 1 gets the cards
+In round 10 #cards in hand1: 42#cards in hand2: 10
+#(cards in hand1)=41 #(cards in hand2)=9 #(cards in stack1)=1 #(cards in stack2)=1
+3d 2h
+Player 1 gets the cards
+In round 11 #cards in hand1: 43#cards in hand2: 9
+#(cards in hand1)=42 #(cards in hand2)=8 #(cards in stack1)=1 #(cards in stack2)=1
+5d Ks
+Player 2 gets the cards
+In round 12 #cards in hand1: 42#cards in hand2: 10
+#(cards in hand1)=41 #(cards in hand2)=9 #(cards in stack1)=1 #(cards in stack2)=1
+7d Js
+Player 2 gets the cards
+In round 13 #cards in hand1: 41#cards in hand2: 11
+#(cards in hand1)=40 #(cards in hand2)=10 #(cards in stack1)=1 #(cards in stack2)=1
+9d 9s
+#(cards in hand1)=40 #(cards in hand2)=10 #(cards in stack1)=1 #(cards in stack2)=1
+War!
+Jc As
+Player 1 gets the cards
+In round 14 #cards in hand1: 46#cards in hand2: 6
+#(cards in hand1)=45 #(cards in hand2)=5 #(cards in stack1)=1 #(cards in stack2)=1
+6c 8c
+Player 2 gets the cards
+In round 15 #cards in hand1: 45#cards in hand2: 7
+#(cards in hand1)=44 #(cards in hand2)=6 #(cards in stack1)=1 #(cards in stack2)=1
+Tc Kd
+Player 2 gets the cards
+In round 16 #cards in hand1: 44#cards in hand2: 8
+#(cards in hand1)=43 #(cards in hand2)=7 #(cards in stack1)=1 #(cards in stack2)=1
+4c 5d
+Player 2 gets the cards
+In round 17 #cards in hand1: 43#cards in hand2: 9
+#(cards in hand1)=42 #(cards in hand2)=8 #(cards in stack1)=1 #(cards in stack2)=1
+Qc Ks
+Player 2 gets the cards
+In round 18 #cards in hand1: 42#cards in hand2: 10
+#(cards in hand1)=41 #(cards in hand2)=9 #(cards in stack1)=1 #(cards in stack2)=1
+4h 7d
+Player 2 gets the cards
+In round 19 #cards in hand1: 41#cards in hand2: 11
+#(cards in hand1)=40 #(cards in hand2)=10 #(cards in stack1)=1 #(cards in stack2)=1
+6h Js
+Player 2 gets the cards
+In round 20 #cards in hand1: 40#cards in hand2: 12
+#(cards in hand1)=39 #(cards in hand2)=11 #(cards in stack1)=1 #(cards in stack2)=1
+8h 6c
+Player 1 gets the cards
+In round 21 #cards in hand1: 41#cards in hand2: 11
+#(cards in hand1)=40 #(cards in hand2)=10 #(cards in stack1)=1 #(cards in stack2)=1
+Th 8c
+Player 1 gets the cards
+In round 22 #cards in hand1: 42#cards in hand2: 10
+#(cards in hand1)=41 #(cards in hand2)=9 #(cards in stack1)=1 #(cards in stack2)=1
+Qh Tc
+Player 1 gets the cards
+In round 23 #cards in hand1: 43#cards in hand2: 9
+#(cards in hand1)=42 #(cards in hand2)=8 #(cards in stack1)=1 #(cards in stack2)=1
+3d Kd
+Player 2 gets the cards
+In round 24 #cards in hand1: 42#cards in hand2: 10
+#(cards in hand1)=41 #(cards in hand2)=9 #(cards in stack1)=1 #(cards in stack2)=1
+2h 4c
+Player 2 gets the cards
+In round 25 #cards in hand1: 41#cards in hand2: 11
+#(cards in hand1)=40 #(cards in hand2)=10 #(cards in stack1)=1 #(cards in stack2)=1
+Jc 5d
+Player 1 gets the cards
+In round 26 #cards in hand1: 42#cards in hand2: 10
+#(cards in hand1)=41 #(cards in hand2)=9 #(cards in stack1)=1 #(cards in stack2)=1
+Ad Qc
+Player 2 gets the cards
+In round 27 #cards in hand1: 41#cards in hand2: 11
+#(cards in hand1)=40 #(cards in hand2)=10 #(cards in stack1)=1 #(cards in stack2)=1
+2c Ks
+Player 2 gets the cards
+In round 28 #cards in hand1: 40#cards in hand2: 12
+#(cards in hand1)=39 #(cards in hand2)=11 #(cards in stack1)=1 #(cards in stack2)=1
+Jd 4h
+Player 1 gets the cards
+In round 29 #cards in hand1: 41#cards in hand2: 11
+#(cards in hand1)=40 #(cards in hand2)=10 #(cards in stack1)=1 #(cards in stack2)=1
+9d 7d
+Player 1 gets the cards
+In round 30 #cards in hand1: 42#cards in hand2: 10
+#(cards in hand1)=41 #(cards in hand2)=9 #(cards in stack1)=1 #(cards in stack2)=1
+As 6h
+Player 2 gets the cards
+In round 31 #cards in hand1: 41#cards in hand2: 11
+#(cards in hand1)=40 #(cards in hand2)=10 #(cards in stack1)=1 #(cards in stack2)=1
+3s Js
+Player 2 gets the cards
+In round 32 #cards in hand1: 40#cards in hand2: 12
+#(cards in hand1)=39 #(cards in hand2)=11 #(cards in stack1)=1 #(cards in stack2)=1
+5s 3d
+Player 1 gets the cards
+In round 33 #cards in hand1: 41#cards in hand2: 11
+#(cards in hand1)=40 #(cards in hand2)=10 #(cards in stack1)=1 #(cards in stack2)=1
+7s Kd
+Player 2 gets the cards
+In round 34 #cards in hand1: 40#cards in hand2: 12
+#(cards in hand1)=39 #(cards in hand2)=11 #(cards in stack1)=1 #(cards in stack2)=1
+9s 2h
+Player 1 gets the cards
+In round 35 #cards in hand1: 41#cards in hand2: 11
+#(cards in hand1)=40 #(cards in hand2)=10 #(cards in stack1)=1 #(cards in stack2)=1
+8h 4c
+Player 1 gets the cards
+In round 36 #cards in hand1: 42#cards in hand2: 10
+#(cards in hand1)=41 #(cards in hand2)=9 #(cards in stack1)=1 #(cards in stack2)=1
+6c Ad
+Player 1 gets the cards
+In round 37 #cards in hand1: 43#cards in hand2: 9
+#(cards in hand1)=42 #(cards in hand2)=8 #(cards in stack1)=1 #(cards in stack2)=1
+Th Qc
+Player 2 gets the cards
+In round 38 #cards in hand1: 42#cards in hand2: 10
+#(cards in hand1)=41 #(cards in hand2)=9 #(cards in stack1)=1 #(cards in stack2)=1
+8c 2c
+Player 1 gets the cards
+In round 39 #cards in hand1: 43#cards in hand2: 9
+#(cards in hand1)=42 #(cards in hand2)=8 #(cards in stack1)=1 #(cards in stack2)=1
+Qh Ks
+Player 2 gets the cards
+In round 40 #cards in hand1: 42#cards in hand2: 10
+#(cards in hand1)=41 #(cards in hand2)=9 #(cards in stack1)=1 #(cards in stack2)=1
+Tc As
+Player 1 gets the cards
+In round 41 #cards in hand1: 43#cards in hand2: 9
+#(cards in hand1)=42 #(cards in hand2)=8 #(cards in stack1)=1 #(cards in stack2)=1
+Jc 6h
+Player 1 gets the cards
+In round 42 #cards in hand1: 44#cards in hand2: 8
+#(cards in hand1)=43 #(cards in hand2)=7 #(cards in stack1)=1 #(cards in stack2)=1
+5d 3s
+Player 1 gets the cards
+In round 43 #cards in hand1: 45#cards in hand2: 7
+#(cards in hand1)=44 #(cards in hand2)=6 #(cards in stack1)=1 #(cards in stack2)=1
+Jd Js
+#(cards in hand1)=44 #(cards in hand2)=6 #(cards in stack1)=1 #(cards in stack2)=1
+War!
+5s Qc
+Player 2 gets the cards
+In round 44 #cards in hand1: 40#cards in hand2: 12
+#(cards in hand1)=39 #(cards in hand2)=11 #(cards in stack1)=1 #(cards in stack2)=1
+3d Qh
+Player 2 gets the cards
+In round 45 #cards in hand1: 39#cards in hand2: 13
+#(cards in hand1)=38 #(cards in hand2)=12 #(cards in stack1)=1 #(cards in stack2)=1
+9s Ks
+Player 2 gets the cards
+In round 46 #cards in hand1: 38#cards in hand2: 14
+#(cards in hand1)=37 #(cards in hand2)=13 #(cards in stack1)=1 #(cards in stack2)=1
+2h 5s
+Player 2 gets the cards
+In round 47 #cards in hand1: 37#cards in hand2: 15
+#(cards in hand1)=36 #(cards in hand2)=14 #(cards in stack1)=1 #(cards in stack2)=1
+8h 7d
+Player 1 gets the cards
+In round 48 #cards in hand1: 38#cards in hand2: 14
+#(cards in hand1)=37 #(cards in hand2)=13 #(cards in stack1)=1 #(cards in stack2)=1
+4c 9d
+Player 2 gets the cards
+In round 49 #cards in hand1: 37#cards in hand2: 15
+#(cards in hand1)=36 #(cards in hand2)=14 #(cards in stack1)=1 #(cards in stack2)=1
+6c 4h
+Player 1 gets the cards
+In round 50 #cards in hand1: 38#cards in hand2: 14
+#(cards in hand1)=37 #(cards in hand2)=13 #(cards in stack1)=1 #(cards in stack2)=1
+Ad Jd
+Player 2 gets the cards
+In round 51 #cards in hand1: 37#cards in hand2: 15
+#(cards in hand1)=36 #(cards in hand2)=14 #(cards in stack1)=1 #(cards in stack2)=1
+8c Qc
+Player 2 gets the cards
+In round 52 #cards in hand1: 36#cards in hand2: 16
+#(cards in hand1)=35 #(cards in hand2)=15 #(cards in stack1)=1 #(cards in stack2)=1
+2c Th
+Player 2 gets the cards
+In round 53 #cards in hand1: 35#cards in hand2: 17
+#(cards in hand1)=34 #(cards in hand2)=16 #(cards in stack1)=1 #(cards in stack2)=1
+Tc Kd
+Player 2 gets the cards
+In round 54 #cards in hand1: 34#cards in hand2: 18
+#(cards in hand1)=33 #(cards in hand2)=17 #(cards in stack1)=1 #(cards in stack2)=1
+As 7s
+Player 2 gets the cards
+In round 55 #cards in hand1: 33#cards in hand2: 19
+#(cards in hand1)=32 #(cards in hand2)=18 #(cards in stack1)=1 #(cards in stack2)=1
+Jc Js
+#(cards in hand1)=32 #(cards in hand2)=18 #(cards in stack1)=1 #(cards in stack2)=1
+War!
+8h Ks
+Player 2 gets the cards
+In round 56 #cards in hand1: 28#cards in hand2: 24
+#(cards in hand1)=27 #(cards in hand2)=23 #(cards in stack1)=1 #(cards in stack2)=1
+7d 2h
+Player 1 gets the cards
+In round 57 #cards in hand1: 29#cards in hand2: 23
+#(cards in hand1)=28 #(cards in hand2)=22 #(cards in stack1)=1 #(cards in stack2)=1
+6c 5s
+Player 1 gets the cards
+In round 58 #cards in hand1: 30#cards in hand2: 22
+#(cards in hand1)=29 #(cards in hand2)=21 #(cards in stack1)=1 #(cards in stack2)=1
+4h 4c
+#(cards in hand1)=29 #(cards in hand2)=21 #(cards in stack1)=1 #(cards in stack2)=1
+War!
+5s 8c
+Player 2 gets the cards
+In round 59 #cards in hand1: 25#cards in hand2: 27
+#(cards in hand1)=24 #(cards in hand2)=26 #(cards in stack1)=1 #(cards in stack2)=1
+null Qc
+In round 60 #cards in hand1: 24#cards in hand2: 26
+#(cards in hand1)=23 #(cards in hand2)=25 #(cards in stack1)=1 #(cards in stack2)=1
+null 2c
+In round 61 #cards in hand1: 23#cards in hand2: 25
+#(cards in hand1)=22 #(cards in hand2)=24 #(cards in stack1)=1 #(cards in stack2)=1
+null Th
+In round 62 #cards in hand1: 22#cards in hand2: 24
+#(cards in hand1)=21 #(cards in hand2)=23 #(cards in stack1)=1 #(cards in stack2)=1
+null Tc
+In round 63 #cards in hand1: 21#cards in hand2: 23
+#(cards in hand1)=20 #(cards in hand2)=22 #(cards in stack1)=1 #(cards in stack2)=1
+null Kd
+In round 64 #cards in hand1: 20#cards in hand2: 22
+#(cards in hand1)=19 #(cards in hand2)=21 #(cards in stack1)=1 #(cards in stack2)=1
+null 4c
+In round 65 #cards in hand1: 19#cards in hand2: 21
+#(cards in hand1)=18 #(cards in hand2)=20 #(cards in stack1)=1 #(cards in stack2)=1
+null 7s
+In round 66 #cards in hand1: 18#cards in hand2: 20
+#(cards in hand1)=17 #(cards in hand2)=19 #(cards in stack1)=1 #(cards in stack2)=1
+null 8h
+In round 67 #cards in hand1: 17#cards in hand2: 19
+#(cards in hand1)=16 #(cards in hand2)=18 #(cards in stack1)=1 #(cards in stack2)=1
+null 3s
+In round 68 #cards in hand1: 16#cards in hand2: 18
+#(cards in hand1)=15 #(cards in hand2)=17 #(cards in stack1)=1 #(cards in stack2)=1
+null 5d
+In round 69 #cards in hand1: 15#cards in hand2: 17
+#(cards in hand1)=14 #(cards in hand2)=16 #(cards in stack1)=1 #(cards in stack2)=1
+null 6h
+In round 70 #cards in hand1: 14#cards in hand2: 16
+#(cards in hand1)=13 #(cards in hand2)=15 #(cards in stack1)=1 #(cards in stack2)=1
+null Jc
+In round 71 #cards in hand1: 13#cards in hand2: 15
+#(cards in hand1)=12 #(cards in hand2)=14 #(cards in stack1)=1 #(cards in stack2)=1
+null Ks
+In round 72 #cards in hand1: 12#cards in hand2: 14
+#(cards in hand1)=11 #(cards in hand2)=13 #(cards in stack1)=1 #(cards in stack2)=1
+null 9s
+In round 73 #cards in hand1: 11#cards in hand2: 13
+#(cards in hand1)=10 #(cards in hand2)=12 #(cards in stack1)=1 #(cards in stack2)=1
+null Qh
+In round 74 #cards in hand1: 10#cards in hand2: 12
+#(cards in hand1)=9 #(cards in hand2)=11 #(cards in stack1)=1 #(cards in stack2)=1
+null 3d
+In round 75 #cards in hand1: 9#cards in hand2: 11
+#(cards in hand1)=8 #(cards in hand2)=10 #(cards in stack1)=1 #(cards in stack2)=1
+null Js
+In round 76 #cards in hand1: 8#cards in hand2: 10
+#(cards in hand1)=7 #(cards in hand2)=9 #(cards in stack1)=1 #(cards in stack2)=1
+null 5s
+In round 77 #cards in hand1: 7#cards in hand2: 9
+#(cards in hand1)=6 #(cards in hand2)=8 #(cards in stack1)=1 #(cards in stack2)=1
+null 6c
+In round 78 #cards in hand1: 6#cards in hand2: 8
+#(cards in hand1)=5 #(cards in hand2)=7 #(cards in stack1)=1 #(cards in stack2)=1
+null 2h
+In round 79 #cards in hand1: 5#cards in hand2: 7
+#(cards in hand1)=4 #(cards in hand2)=6 #(cards in stack1)=1 #(cards in stack2)=1
+null 7d
+In round 80 #cards in hand1: 4#cards in hand2: 6
+#(cards in hand1)=3 #(cards in hand2)=5 #(cards in stack1)=1 #(cards in stack2)=1
+null 4h
+In round 81 #cards in hand1: 3#cards in hand2: 5
+#(cards in hand1)=2 #(cards in hand2)=4 #(cards in stack1)=1 #(cards in stack2)=1
+null 8c
+In round 82 #cards in hand1: 2#cards in hand2: 4
+#(cards in hand1)=1 #(cards in hand2)=3 #(cards in stack1)=1 #(cards in stack2)=1
+null Jd
+In round 83 #cards in hand1: 1#cards in hand2: 3
+#(cards in hand1)=0 #(cards in hand2)=2 #(cards in stack1)=1 #(cards in stack2)=1
+null Ad
+Player 2 wins!
+In round 84 #cards in hand1: 0#cards in hand2: 2
